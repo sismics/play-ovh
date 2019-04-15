@@ -1,4 +1,6 @@
 ## Change Log
+### Version 1.1.1 (2019-04-15)
+- Fix dependencies file
 ### Version 1.1.0 (2019-04-10)
 - Automate build
 ### Version 1.0.0 (2019-03-08)
