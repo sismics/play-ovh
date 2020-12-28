@@ -1,3 +1,6 @@
+[![GitHub release](https://img.shields.io/github/release/sismics/play-ovh.svg?style=flat-square)](https://github.com/sismics/play-ovh/releases/latest)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # play-ovh plugin
 
 This plugin adds [OVH](https://www.ovh.com/) API support to Play! Framework 1 applications.
@@ -10,7 +13,7 @@ This plugin adds [OVH](https://www.ovh.com/) API support to Play! Framework 1 ap
 
 ```
 require:
-    - ovh -> ovh 1.1.1
+    - ovh -> ovh 1.2.0
 
 repositories:
     - sismicsNexusRaw:
