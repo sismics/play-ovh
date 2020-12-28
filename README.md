@@ -13,7 +13,7 @@ This plugin adds [OVH](https://www.ovh.com/) API support to Play! Framework 1 ap
 
 ```
 require:
-    - ovh -> ovh 1.2.0
+    - ovh -> ovh 1.2.1
 
 repositories:
     - sismicsNexusRaw:
